@@ -1,0 +1,28 @@
+.hello {
+    margin-bottom: 40px;
+    height: 50px;
+	width: 100px;
+	border-radius: 7px;
+	background-color: rgb(230, 185, 185);
+    font-size: 18px;
+	font-weight: 200;	
+    border: 3px solid rgb(109, 29, 29)
+}
+
+
+.btn {
+    height: 100px;
+	width: 100px;
+	border-radius: 50px;
+	background-color: rgb(233, 229, 20);
+    font-size: 54px;
+	font-weight: 500;	
+    border: 3px solid rgb(109, 29, 29)
+
+}
+.calc {
+    display: grid;
+    grid-template-columns: 120px 120px;
+    grid-template-rows: 120px 120px;
+    gap: 10px;
+}
